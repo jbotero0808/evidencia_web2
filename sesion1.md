@@ -21,7 +21,28 @@
 14. ¿Qué son los marcos de trabajo de front-end y cuáles son algunos de los más populares?
 15. ¿Qué es una single-page application (SPA) y cómo se desarrolla utilizando JavaScript?
 
+# Solución
 
+1.
+* Java
+* JavaScript
+* C#
+* SQL
+* Python
+2. El Lenguaje de Marcado de Hipertexto (HTML) es el código que se utiliza para estructurar y desplegar una página web y sus contenidos
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
 
 
 
