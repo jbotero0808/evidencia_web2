@@ -4,10 +4,4 @@
 ## Sesión 5 
 
 
-<!-- Su documentación aquí -->
-
-
-
-
-
 

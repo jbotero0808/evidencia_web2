@@ -6,15 +6,15 @@
 # Actividad: Creación componente de lista de elementos.
 Crear un componente de React llamado List que renderice una lista de elementos. El componente debe aceptar una prop llamada items que debe ser un array de objetos. Cada objeto del array debe tener los siguientes campos:
 
-    * name: El nombre del elemento.
-    * color: El color del elemento.
+* name: El nombre del elemento.
+* color: El color del elemento.
 
 El componente debe renderizar una lista de elementos con el siguiente formato:
 
 ```html
-    <li style={{ color: item.color }}>
-    <h3>{item.name}</h3>
-    </li>
+<li style={{ color: item.color }}>
+<h3>{item.name}</h3>
+</li>
 ``` 
 
 ## Requisitos de la actividad:
