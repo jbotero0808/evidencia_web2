@@ -21,6 +21,7 @@ Crea un proyecto nuevo utilizando Next.js.
 Explica la estructura de carpetas predeterminada de Next.js.
 Describe las ventajas de utilizar Next.js para proyectos que requieren renderizado en el lado del servidor y en el lado del cliente.
 
+# Solución
 
 
 
