@@ -1,16 +1,13 @@
 # Inicio
 
-Bienvenidos a la plataforma de recolección de evidencias, donde se encontrarán todas las actividades realizadas durante la ejecución del submódulo. Este espacio proporciona acceso integral a todas las acciones y logros alcanzados en el transcurso de este proceso. La intención es facilitar el acceso eficiente y completo a la información necesaria para llevar a cabo un seguimiento detallado del trabajo. 
+Bienvenidos a la plataforma donde se documentará uno a uno los proceso de sistemas del área de logistica de Invesa, aca se puede ir por cada uno de las documentaciones realizadas
 
-## Momento 1
+## Documentaciones
 
 - [Sesión 1](./sesion1.md)
 - [Sesión 2](./sesion2.md)
 - [Sesión 3](./sesion3.md)
 - [Sesión 4](./sesion4.md)
-
-## Momento 2
-
 - [Sesión 7](./sesion7.md)
 - [Sesión 8](./sesion8.md)
 - [Sesión 9](./sesion9.md)
