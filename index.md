@@ -4,7 +4,7 @@ Bienvenidos a la plataforma donde se documentará uno a uno los proceso de siste
 
 ## Documentaciones
 
-- [Publicar en cartelera](./sesion1.md)
+- [Menú](./sesion1.md)
 - [Sesión 2](./sesion2.md)
 - [Sesión 3](./sesion3.md)
 - [Sesión 4](./sesion4.md)
