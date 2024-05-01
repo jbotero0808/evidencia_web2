@@ -1,4 +1,4 @@
-# Inicio
+# Nosotros
 
 Mensaje de bienvenida
 

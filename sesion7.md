@@ -8,5 +8,7 @@ Para poner en práctica los ejercicios de la sesión 7 y mejorar tus habilidades
 
 # Solución
 
-
+```hmtl
+<h1>Hola mundo</h1>
+```
 
