@@ -5,6 +5,6 @@ Bienvenidos a la plataforma donde se documentará uno a uno los proceso de siste
 ## Documentaciones
 
 - [Menú](./sesion1.md)
-- [Sesión 2](./sesion2.md)
-- [Sesión 3](./sesion3.md)
-- [Sesión 4](./sesion4.md)
+- [Como Llegar ?](./sesion2.md)
+- [Fotos](./sesion3.md)
+- [Contácto](./sesion4.md)
