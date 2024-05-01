@@ -1,6 +1,6 @@
 # Inicio
 
-Bienvenidos a la plataforma donde se documentará uno a uno los proceso de sistemas del área de logistica de Invesa, aca se puede ir por cada uno de las documentaciones realizadas
+Mensaje de bienvenida
 
 ## Documentaciones
 
